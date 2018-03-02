@@ -7,11 +7,18 @@ Terminal: iTerm2
 Font: SourceCodePro+Powerline+Awesome Regular
 Color Scheme: Solarized Dark
 
+## 2.- Windows
+
+- [x] find a windows solution
+- [ ] follow the tutorial under links, and update howto.
+
 ## Links
 
-[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+Howto: [Zsh on Windows](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)
 
-[powerlevel9k](https://github.com/bhilburn/powerlevel9k)
+Repo: [oh-my-zsh for Zsh](https://github.com/robbyrussell/oh-my-zsh)
+
+Repo: [powerlevel9k for Zsh](https://github.com/bhilburn/powerlevel9k)
 
 ## Meta
 
