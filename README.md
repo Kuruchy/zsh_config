@@ -5,7 +5,11 @@ This is a repository to put the Zsh configuration files and preferences for the 
 
 Terminal: iTerm2
 Font: SourceCodePro+Powerline+Awesome Regular
+
 Color Scheme: Solarized Dark
+
+### Instalation
+In iTerm2 in `Preferences/Profiles/General` uncheck `Login shell` and check `Command`, adding `/usr/local/bin/zsh`.
 
 ## 2.- Windows
 
