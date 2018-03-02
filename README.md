@@ -11,6 +11,10 @@ Color Scheme: Solarized Dark
 ### Instalation
 In iTerm2 in `Preferences/Profiles/General` uncheck `Login shell` and check `Command`, adding `/usr/local/bin/zsh`.
 
+I use Sublime as my external text editor, so I will need to create an alias for the zsh. I add it to the `.zshrc` config file.
+
+`alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"`
+
 ## 2.- Windows
 
 - [x] find a windows solution

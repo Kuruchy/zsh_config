@@ -13,6 +13,9 @@ POWERLEVEL9K_MODE='awesome-patched'
 
 plugins=(
   git
+  gradle
+  node
+  npm
 )
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon dir dir_writable vcs)
@@ -35,3 +38,5 @@ POWERLEVEL9K_VCS_GIT_ICON='\uE1AA'
 POWERLEVEL9K_VCS_GIT_BITBUCKET_ICON='\uE266'
 
 source $ZSH/oh-my-zsh.sh
+
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
