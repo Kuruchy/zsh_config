@@ -13,6 +13,16 @@ In iTerm2 in `Preferences/Profiles/General` uncheck `Login shell` and check `Com
 I use Sublime as my external text editor, so I will need to create an alias for the zsh. I add it to the `.zshrc` config file.  
 `alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"`
 
+To setup Sublime:
+- Go to [https://packagecontrol.io/installation](https://packagecontrol.io/installation) and copy the code inside the box labeled as Sublime Text 3.
+- In Sublime, open the console `View > Show Console` and paste the code that you just copied on it. Press enter to execute it.
+- Press CTRL+SHIFT+P and search for `Package Control: Install Package
+- I install the following packages:
+	- SublimeLinter
+	- SublimeLinter-eslint
+	- SublimeLinter-contrib-stylelint
+	- EditorConfig
+
 ## 2.- Windows
 
 - [x] find a windows solution
