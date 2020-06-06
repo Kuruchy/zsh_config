@@ -25,13 +25,22 @@ To setup Sublime:
 
 ## 2.- Windows
 
-The solution for Windows is use the new Window Terminal and the Linux Subsystem.
+The solution for Windows is to use the new Window Terminal and the Linux Subsystem.
+
+- Ubuntu 20.04 LTS (Microsoft Store)
+- Windows Terminal (Microsoft Store)
+- Move `settings.json` to Windows Terminal
+- Install ZSH
+- Change bash -> `chsh -s /bin/zsh`
+- Install OhMyZsh -> `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+- Install Poerlevel10k
+
 
 ## Links
 
 Repo: [Windows Terminal](https://github.com/microsoft/terminal)  
 Repo: [oh-my-zsh for Zsh](https://github.com/robbyrussell/oh-my-zsh)  
-Repo: [powerlevel9k for Zsh](https://github.com/bhilburn/powerlevel9k)
+Repo: [powerlevel10k for Zsh](https://github.com/romkatv/powerlevel10k)
 
 ## Meta
 
