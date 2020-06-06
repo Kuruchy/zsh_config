@@ -16,7 +16,7 @@ I use Sublime as my external text editor, so I will need to create an alias for 
 To setup Sublime:
 - Go to [https://packagecontrol.io/installation](https://packagecontrol.io/installation) and copy the code inside the box labeled as Sublime Text 3.
 - In Sublime, open the console `View > Show Console` and paste the code that you just copied on it. Press enter to execute it.
-- Press CTRL+SHIFT+P and search for `Package Control: Install Package
+- Press CTRL+SHIFT+P and search for `Package Control: Install Package`
 - I install the following packages:
 	- SublimeLinter
 	- SublimeLinter-eslint
