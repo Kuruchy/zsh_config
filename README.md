@@ -25,12 +25,11 @@ To setup Sublime:
 
 ## 2.- Windows
 
-- [x] find a windows solution
-- [ ] follow the tutorial under links, and update howto.
+The solution for Windows is use the new Window Terminal and the Linux Subsystem.
 
 ## Links
 
-Howto: [Zsh on Windows](https://evdokimovm.github.io/windows/zsh/shell/syntax/highlighting/ohmyzsh/hyper/terminal/2017/02/24/how-to-install-zsh-and-oh-my-zsh-on-windows-10.html)  
+Repo: [Windows Terminal](https://github.com/microsoft/terminal)  
 Repo: [oh-my-zsh for Zsh](https://github.com/robbyrussell/oh-my-zsh)  
 Repo: [powerlevel9k for Zsh](https://github.com/bhilburn/powerlevel9k)
 
