@@ -1,5 +1,5 @@
-# zsh_config
-This is a repository to put the Zsh configuration files and preferences for the different OS I use.
+# My ZSH Configuration
+This is a repository where I will add all the the Zsh configuration files and preferences for the different OS I use.
 
 ## 1.- MacOS
 
@@ -28,7 +28,7 @@ To setup Sublime:
 The solution for Windows is to use the new Window Terminal and the Linux Subsystem.
 
 - Ubuntu 20.04 LTS (Microsoft Store)
-- Windows Terminal (Microsoft Store)
+- Windows Terminal (Microsoft Store)  Go to `https://atomcorp.github.io/themes/` to select a theme for the Terminal
 - Move `settings.json` to Windows Terminal
 - Install ZSH
 - Change bash -> `chsh -s /bin/zsh`
