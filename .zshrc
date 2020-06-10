@@ -111,8 +111,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias gw="./gradlew"
-alias ls='ls $@ 2> /var/log/.ls-error --color=auto'
-alias code="/mnt/c/Users/kuruc/AppData/Local/Programs/Microsoft%20VS%20Code/Code.exe"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
